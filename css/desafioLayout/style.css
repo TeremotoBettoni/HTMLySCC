@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rebeccapurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    width: 25%;
+}
+.nav {
+    background-color: peachpuff;
+    padding: 10px;
+    list-style: none;
+    text-align: left;
+    display: flex;
+}
+
+.links{
+    align-items: flex-start;
+    display: flex;
+}
+.nav li{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+.contenedor{
+    display: flex;
+
+}
+
+.naranja{
+    background-color: orange;
+    padding: 10px;
+}
+.cuadro1{
+    background-color: pink;
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.gris{
+    background-color: grey;
+}
