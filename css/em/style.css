@@ -1,0 +1,12 @@
+/* body{
+    font-size: 20px;
+
+} */
+
+.text-container{
+    font-size: 1.5em;/* el em toma el tamaño de fuente que tenga el padre directo*/
+}
+
+.text-container div{
+    font-size: 1.5em;/*tener cuidado de donde mandamosa llamar ya que los em se multiplican si estan dentro de otros*/
+}

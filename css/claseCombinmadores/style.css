@@ -1,0 +1,22 @@
+/*cuando tiene cercano */
+/* h2 + p {
+    color: red;
+} */
+
+/*con hermanos generales*/
+
+/* h2 ~ p{
+    color: red;
+} */
+
+/*hijos o chille*/
+
+/* div > p { /* aqui por ejemplo parrafors que sean solo hijos directos de un div
+    color: red;
+} */
+
+/*desendientes*/
+div p { /* aqui por ejemplo parrafors que sean solo hijos directos de un div*/
+    color: red;
+}
+

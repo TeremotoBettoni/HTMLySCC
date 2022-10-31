@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;/*aqui ponemos el procentaje general para poder usar varios rem*/
+}/* de la linea 1 a 8 es lo que siempre debe tener por defaul tus css*/
+
+p {
+    font-size: 1.6rem; /*un rem simpre es igual al predefinido de la pagina, es decir 16px*/
+}
+
+main div {
+    font-size: 1.6rem;
+}
